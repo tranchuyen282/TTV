@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <service_name>kntb</service_name>
+    <shortcode>9093</shortcode>
+    <brandname>KNTB</brandname>
+    <ussd_pkg_code></ussd_pkg_code>
+    <spid>9091</spid>
+    <phone-formater>
+        <international>84</international>
+        <national>0</national>
+        <prefix>+,0</prefix>
+        <max-length>9</max-length>
+        <min-length>9</min-length>
+    </phone-formater>
+</config>
