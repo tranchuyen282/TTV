@@ -10,7 +10,7 @@ public class Bai4 {
     private static Set<String> list = new HashSet<String>();
 
     // đọc,định dạng + lọc;
-    private static void readData() throws IOException {
+    public static void readData() throws IOException {
         FileReader fr = new FileReader("cdr.txt");
         BufferedReader br = new BufferedReader(fr);
         String t = null;
@@ -42,7 +42,7 @@ public class Bai4 {
     }
 
     // sort + ghi file
-    private static void writeData() throws IOException {
+    public static void writeData() throws IOException {
         //sort
         TreeSet sortedList = new TreeSet<String>(list);
         //ghi file:
