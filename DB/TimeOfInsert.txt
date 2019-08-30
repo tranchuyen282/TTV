@@ -1,0 +1,35 @@
+Cách 1: 
+L§n 1 = 129579 ms
+L§n 2 = 173104 ms
+L§n 3 = 173502 ms
+L§n 4 = 172370 ms
+L§n 5 = 170172 ms
+TB = 163745.4
+Cách 2: 
+L§n 1 = 6932 ms
+L§n 2 = 7045 ms
+L§n 3 = 6962 ms
+L§n 4 = 6971 ms
+L§n 5 = 6826 ms
+TB = 6947.2
+Cách 3: 
+L§n 1 = 8757 ms
+L§n 2 = 6991 ms
+L§n 3 = 6734 ms
+L§n 4 = 6776 ms
+L§n 5 = 6739 ms
+TB = 7199.4
+Cách 4: 
+L§n 1 = 6678 ms
+L§n 2 = 6704 ms
+L§n 3 = 6618 ms
+L§n 4 = 12069 ms
+L§n 5 = 6719 ms
+TB = 7757.6
+Cách 5: 
+L§n 1 = 6718 ms
+L§n 2 = 7177 ms
+L§n 3 = 8573 ms
+L§n 4 = 7160 ms
+L§n 5 = 7043 ms
+TB = 7334.2

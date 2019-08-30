@@ -10,8 +10,13 @@ class Thread4 implements Runnable{
     @Override
     public void run() {
         try {
+            long ts = System.currentTimeMillis();
             IO.Bai4.readData();
+            long te = System.currentTimeMillis();
+            //System.out.println("Time doc " + (te - ts));
             IO.Bai4.writeData();
+            ts = System.currentTimeMillis();
+            //System.out.println("Time ghi " + (ts - te));
         } catch (IOException e) {
             e.printStackTrace();
         }

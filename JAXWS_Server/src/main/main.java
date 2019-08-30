@@ -7,7 +7,7 @@ public class main {
 	public static void main(String[] args) {
 		try {
 			Endpoint.publish("http://localhost:9000/ws/demo", new DemoImpl());
-			System.out.println("Connect...");
+			System.out.println("Server on");
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
